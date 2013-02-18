@@ -1,0 +1,34 @@
+Line tag: P1
+Pipe ID [mm]=150.000000 	Reduced/enlarged ID[mm]=250.000000 	Roughness [mm]=0.045720 	Viscosity [cSt]=1.300000 	Heigh difference between entrance and exit [m]=-1.000000
+Number of Std 90deg Elbows =4.000000 
+Number of LR Elbows =0.000000 
+Number of SR Elbows  =0.000000 
+Number of Return Bends =0.000000 
+Number of Std 45deg Elbows =2.000000
+Number of Butterfly Valves=1.000000 
+Number of Gate Valves=0.000000 
+Number of Angle Valves=0.000000 
+Number of Globe Valves=0.000000 
+Number of Duo Check Valves=1.000000, 
+Number of Swing Check Valves=0.000000 
+Number of Std Footvalves=0.000000 
+Number of Footvalves Poppet Type=0.000000
+Number of Tees - flow through=0.000000 
+Number of Tees - change Flow direction=0.000000 
+Pipe exits=0.000000 
+Pipe entrances=0.000000, 
+Pipe Contractions=0.000000 
+Pipe Enlargements=0.000000 
+Strainers=0.000000 
+User Defined Losses=0.000000
+ 
+******* 
+Calculation Results 
+ 
+Total Local Losses=4.340000
+Reynolds: 1814.651496;0.000000 
+Velocity: -0.000000;0.015727,-0.000000 
+Headloss: 0.000068;0.000000;-1.000000
+Reynolds=1814.651496 *Q + 0.000000 
+Velocity= -0.000000 *Q**2 +0.015727 *Q+ -0.000000 
+Headloss= 0.000068 *Q**2+ 0.000000 *Q +-1.000000
